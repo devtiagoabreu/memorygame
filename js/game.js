@@ -21,6 +21,11 @@ const characters = [
   '020',  
 ];
 
+
+function insertRanking() {
+
+}
+
 const createElement = (tag, className) => {
   const element = document.createElement(tag);
   element.className = className;
